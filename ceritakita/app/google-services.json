@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "817403913910",
+    "firebase_url": "https://ceritakita-1233.firebaseio.com",
+    "project_id": "ceritakita-1233",
+    "storage_bucket": "ceritakita-1233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817403913910:android:1f11eeb8b2a8b699",
+        "android_client_info": {
+          "package_name": "com.example.android.ceritakita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817403913910-cnrtbfp7sst2568sufpog4eer7dh30in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFyu9Ew28UVX3OEcZI_5dg8yw2dvBBarc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
